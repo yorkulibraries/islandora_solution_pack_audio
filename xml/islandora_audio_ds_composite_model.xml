@@ -14,9 +14,9 @@
     <form FORMAT_URI="http://www.loc.gov/mods/v3" MIME="application/xml"/>
   </dsTypeModel>
   <dsTypeModel ID="OBJ" optional="false">
-    <form MIME="audio/mpeg"/>
     <form MIME="audio/wav"/>
     <form MIME="audio/x-wav"/>
+    <form MIME="audio/x-wave"/>
     <form MIME="audio/vnd.wave"/>
     <form MIME="audio/flac"/>
   </dsTypeModel>
